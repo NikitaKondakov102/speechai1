@@ -13,10 +13,10 @@ pip install bs4<br>
 pip install pyttsx3<br>
 pip install apiai<br>
 pip install gTTS<br>
-pip install pyaudio (если не ставится - ставьте whl версию отсюда https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio )<br>
 pip install SpeechRecognition<br>
 pip install pypiwin32<br>
 pip install pywin32<br>
+pip install pyaudio <br>(если не ставится - ставьте whl версию отсюда https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio )<br>
 
 
 
